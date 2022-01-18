@@ -1,4 +1,5 @@
-### Olá, eu sou a Sophia Fiama, Desenvolvedora Full Stack | Frontend :  JavaScript | React |Backend : Java | Spring Boot
+### Olá, eu sou a Sophia Fiama, Desenvolvedora Full Stack
+### Frontend :  JavaScript | React |Backend : Java | Spring Boot
 
 <!-- Painel de controle -->
  <div style="display: inline_block">
